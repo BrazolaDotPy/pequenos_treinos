@@ -1,0 +1,2 @@
+Um pequeno projeto de controle de produtos num estoque
+Treinando o uso dos decoradores e de list comprehension
