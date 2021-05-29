@@ -1,0 +1,5 @@
+podemos enviar as tags ao repo utilizando o comando <git push origin nome_da_tagtag>
+
+OU
+
+<git push origin --tags> pra enviar todas as tags
