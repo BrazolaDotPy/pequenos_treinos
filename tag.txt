@@ -1,2 +1,3 @@
 Criar tags nos branches seria como criar um "checkpoint"
 É utilizada para demarcar estágios no desenvolvimento do projeto
+pra trocar de tags é a mesma coisa que trochar de branch <git checkout nome_da_tag>
