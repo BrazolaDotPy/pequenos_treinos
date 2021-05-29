@@ -1,0 +1,2 @@
+Criar tags nos branches seria como criar um "checkpoint"
+É utilizada para demarcar estágios no desenvolvimento do projeto
