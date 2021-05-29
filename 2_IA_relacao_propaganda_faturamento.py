@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 
 
-arquivo = pd.read_csv("advertising.csv")
+arquivo = pd.read_csv("2_advertising.csv")
 print(arquivo.info())
 
 sns.pairplot(arquivo)
