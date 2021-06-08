@@ -1,1 +1,1 @@
- Repositório utilizado para pequenos treinos visando melhorar alguns aspectos de programação.
+ Repositório utilizado para pequenos treinos visando melhorar alguns aspectos da programação.
