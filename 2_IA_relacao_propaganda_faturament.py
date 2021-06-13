@@ -1,15 +1,3 @@
-"""
-PASSO A PASSO DE UM PROJETO DE CIÊNCIA DE DADOS
-
-1 - Entendimento do desafio
-2 - Entendimento da Área/Empresa
-3 - Extração/Obtenção dos dados
-4 - Tratamento/Limpeza dos dados
-5 - Análise Exploratória
-6 - Modelagem e Algoritmos (IA)
-7 - Interpretação dos Resultados
-"""
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt

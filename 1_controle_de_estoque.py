@@ -36,11 +36,13 @@ class Estoque:
     @classmethod
     def gravar_arquivo(cls):
         """Grava os produtos num arquivo .txt"""
-        with open('despensa.txt', 'w', encoding='UTF-8') as desp:
+        with open('despensa.csv', 'w', encoding='UTF-8') as desp:
+            desp.write("Nome,Descrição,Código,Quantidade,")
             for x in Estoque.__estoque:
-                lista_estoque = str(x)
-                desp.write(lista_estoque)
-                desp.write('\n')
+                desp.write("\n")
+                for y in x:
+                    desp.write(str(y) + ',')
+
 
     def __init__(self, nome: str, descricao: str, quantidade: int):
         self.__nome = nome
@@ -58,3 +60,10 @@ class Estoque:
     def quantidade(self):
         return f'{self.__nome} | Código: {self.__codigo} | Quantidade: {self.__quantidade}'
 
+mesa = Estoque("Mesa", "de vidro 4 cadeiras", 3)
+sofa = Estoque("Sofa", "Dois lugares", 2)
+geladeira = Estoque("Geladeira", "Duas portas frost-free", 4)
+tv = Estoque("TV", "42 polegadas smart", 5)
+ventilador = Estoque("Ventilador", "30 cm", 6)
+
+Estoque.gravar_arquivo()
