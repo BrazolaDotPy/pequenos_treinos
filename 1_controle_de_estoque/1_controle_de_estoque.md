@@ -1,8 +1,8 @@
-# Controle de estoque
-
+# Controle de Estoque
+_______________________________________________
 ## Pequeno algoritmo usando POO como paradigma para fazer um controle de estoque e guardando os dados em arquivo .csv
-
-### Dentre as funções básicas do programa podemos:
+_______________________________________________
+### Dentre as funções do programa podemos:
 * Verificar nome e descrição de um produto
 * Verificar a quantidade de itens de determinado produto
 * Retirar ou adicionar produtos
