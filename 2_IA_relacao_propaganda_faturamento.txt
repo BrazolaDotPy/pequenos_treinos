@@ -1,6 +1,0 @@
-2_  Um pequeno projeto de Inteligência Artificial treinada para adivinhar o faturamento de uma empresa X usando como
-    base 75% de seus investimentos em propagandas na TV, rádio e Jornal e do seu faturamento.
-
-    Após isso a IA verifica apenas os investimentos em propagandas dos 25% restantes e tenta adivinhar seu faturamento.
-
-    Foram utilizadas Regressão Linear e Random Forest.
