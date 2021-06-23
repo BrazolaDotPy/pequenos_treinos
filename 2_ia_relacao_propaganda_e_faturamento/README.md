@@ -35,4 +35,4 @@ _______________________________________________
 #### Também foi verificado uma relação íntima entre investimento em propagandas na TV e faturamento
 2. Gráfico com o *mapa de calor* entre o faturamento e os investimentos em propagandas nos três meios de comunicação*
 ![mapa de calor](Figure_2.png)
-######*Quanto mais alaranjado e mais próximo de 1 for a célula, mais próxima a relação entre os dados
+*Quanto mais alaranjado e mais próximo de 1 for a célula, mais próxima a relação entre os dados
